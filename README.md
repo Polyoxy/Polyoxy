@@ -18,7 +18,7 @@
 🔐 **Security & Performance Optimization** – Built different  
 
 ### **📩 Link Up**  
-📧 **Business Inquiries**: larrybusiness10@gmail.com  
+📧 **Business Inquiries**: iversonbusiness10@gmail.com  
 🕸️ **Website**: [theshinemobile.net](https://theshinemobile.net)  
 🐦 **Twitter**: @Polyoxy  
 
