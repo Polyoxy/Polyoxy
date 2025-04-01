@@ -18,8 +18,7 @@
 🔐 **Security & Performance Optimization** – Built different  
 
 ### **📩 Link Up**  
-📧 **Business Inquiries**: iversonbusiness10@gmail.com  
-🕸️ **Website**: [theshinemobile.net](https://theshinemobile.net)  
-🐦 **Twitter**: @Polyoxy  
-
+📧 **Business Inquiries**: Polyoxy.AI@Coming.Soon 
+🕸️ **Website**: [Aurora.Agency](https://aurora-11d76.web.app)  
+🐦 **Twitter**: @Polyoxy
 🚨 **"Code like a machine, design like an artist, execute like a hustler."** 🚨  
