@@ -1,24 +1,22 @@
+# Polyoxy
 
-# **🚀 Polyoxy | Hustling in Code, Web3 & 3D**  
+### Who I Am
+Full-stack developer | AI & automation enthusiast | 3D & 2D design hobbyist  
+Focused on building **practical, scalable systems and tools that streamline workflows and experimentation**.
 
-### **🔹 Who Am I?**  
-💻 **Full-stack developer** | **Web3 enthusiast** | **3D & graphic design OG (7+ years experience)**  
-💡 Building **scalable systems, next-gen apps, and future-proof tech**  
+### Focus Areas
+- **AI & Automation Tools** – Enterprise CLI assistants, fine-tuned models, and workflow automation  
+- **Web & SaaS Projects** – Frontend apps and real-time tools under the Aurora Foundation  
+- **Design & Visual Work** – Figma UI/UX, Blender, Photoshop, Illustrator, and 2D/3D ads & art  
 
-### **🌍 What I’m On**  
-🔗 **Web3, Blockchain, Smart Contracts** – The future is decentralized  
-🔥 **CRMs, SaaS, & Firebase** – Cloud-powered automation & real-time magic  
-🎨 **3D Art & Graphic Design** – Visual storytelling at its finest  
-🚀 **Scaling Startups & Hustles** – No limits, just execution  
+### Skills
+- **Backend & Cloud:** Node.js, Express, MongoDB, Firebase, Docker, Linux environments  
+- **Frontend & UI/UX:** React, Tailwind, Framer, SwiftUI (MeshApp)  
+- **AI & Automation:** Python, fine-tuned models, CLI tooling  
+- **Design Tools:** Blender, Photoshop, Illustrator, Figma  
 
-### **🛠️ Stacking Skills**  
-🔥 **Node.js, Express, MongoDB, Firebase** – Backend & cloud domination  
-🎨 **React, Tailwind, Framer** – Clean UI/UX with seamless flows  
-🖥️ **Blender, Photoshop, Illustrator** – Crafting visuals that hit different  
-🔐 **Security & Performance Optimization** – Built different  
+### Contact
+- **Website:** [Aurora Foundation](https://aurora-11d76.web.app)  
+- **Twitter:** [@PolyoxyDev](https://twitter.com/PolyoxyDev)  
 
-### **📩 Link Up**  
-📧 **Business Inquiries**: Polyoxy.AI@Coming.Soon 
-🕸️ **Website**: [Aurora.Agency](https://aurora-11d76.web.app)  
-🐦 **Twitter**: @Polyoxy
-🚨 **"Code like a machine, design like an artist, execute like a hustler."** 🚨  
+> “Build smart tools. Scale real systems. Execute without excuses.”
